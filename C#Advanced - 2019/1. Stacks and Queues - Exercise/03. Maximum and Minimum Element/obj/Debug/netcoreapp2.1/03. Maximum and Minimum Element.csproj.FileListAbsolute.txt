@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.deps.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.runtimeconfig.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.1\03. Maximum and Minimum Element.pdb
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.AssemblyInfo.cs
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.1\03. Maximum and Minimum Element.pdb

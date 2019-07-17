@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.pdb

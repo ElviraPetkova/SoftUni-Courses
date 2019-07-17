@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.deps.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.runtimeconfig.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.pdb
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.AssemblyInfo.cs
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.pdb

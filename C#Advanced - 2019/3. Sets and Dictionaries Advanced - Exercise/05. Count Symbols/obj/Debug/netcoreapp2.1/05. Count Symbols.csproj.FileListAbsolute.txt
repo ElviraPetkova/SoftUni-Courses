@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.deps.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp2.1\05. Count Symbols.pdb
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.AssemblyInfo.cs
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp2.1\05. Count Symbols.pdb

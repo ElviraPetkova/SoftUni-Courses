@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.deps.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.pdb
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.pdb

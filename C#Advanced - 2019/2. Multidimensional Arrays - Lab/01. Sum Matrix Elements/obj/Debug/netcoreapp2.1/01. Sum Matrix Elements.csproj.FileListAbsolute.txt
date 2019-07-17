@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.pdb

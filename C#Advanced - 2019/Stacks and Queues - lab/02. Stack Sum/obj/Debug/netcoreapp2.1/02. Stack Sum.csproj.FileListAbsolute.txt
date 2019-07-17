@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\bin\Debug\netcoreapp2.1\02. Stack Sum.deps.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\bin\Debug\netcoreapp2.1\02. Stack Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\bin\Debug\netcoreapp2.1\02. Stack Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\bin\Debug\netcoreapp2.1\02. Stack Sum.dll
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\bin\Debug\netcoreapp2.1\02. Stack Sum.pdb
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\obj\Debug\netcoreapp2.1\02. Stack Sum.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\obj\Debug\netcoreapp2.1\02. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\obj\Debug\netcoreapp2.1\02. Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\obj\Debug\netcoreapp2.1\02. Stack Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\obj\Debug\netcoreapp2.1\02. Stack Sum.dll
+C:\Users\Admin\source\repos\Stacks and Queues - lab\02. Stack Sum\obj\Debug\netcoreapp2.1\02. Stack Sum.pdb

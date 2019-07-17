@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.deps.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.runtimeconfig.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.pdb
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.pdb

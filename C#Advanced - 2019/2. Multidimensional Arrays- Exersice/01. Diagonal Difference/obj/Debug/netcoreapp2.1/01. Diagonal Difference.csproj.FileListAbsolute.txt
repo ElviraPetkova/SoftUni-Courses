@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.pdb

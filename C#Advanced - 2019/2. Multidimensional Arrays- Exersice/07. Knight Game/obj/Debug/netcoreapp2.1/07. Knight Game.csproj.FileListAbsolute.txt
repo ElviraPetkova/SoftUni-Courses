@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\bin\Debug\netcoreapp2.1\07. Knight Game.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\bin\Debug\netcoreapp2.1\07. Knight Game.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\bin\Debug\netcoreapp2.1\07. Knight Game.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\bin\Debug\netcoreapp2.1\07. Knight Game.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\bin\Debug\netcoreapp2.1\07. Knight Game.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\obj\Debug\netcoreapp2.1\07. Knight Game.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\obj\Debug\netcoreapp2.1\07. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\obj\Debug\netcoreapp2.1\07. Knight Game.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\obj\Debug\netcoreapp2.1\07. Knight Game.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\obj\Debug\netcoreapp2.1\07. Knight Game.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\07. Knight Game\obj\Debug\netcoreapp2.1\07. Knight Game.pdb

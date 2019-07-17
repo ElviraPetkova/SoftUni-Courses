@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\bin\Debug\netcoreapp2.1\012. Cups and Bottles.deps.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\bin\Debug\netcoreapp2.1\012. Cups and Bottles.runtimeconfig.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\bin\Debug\netcoreapp2.1\012. Cups and Bottles.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\bin\Debug\netcoreapp2.1\012. Cups and Bottles.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\bin\Debug\netcoreapp2.1\012. Cups and Bottles.pdb
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\obj\Debug\netcoreapp2.1\012. Cups and Bottles.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\obj\Debug\netcoreapp2.1\012. Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\obj\Debug\netcoreapp2.1\012. Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\obj\Debug\netcoreapp2.1\012. Cups and Bottles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\obj\Debug\netcoreapp2.1\012. Cups and Bottles.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\012. Cups and Bottles\obj\Debug\netcoreapp2.1\012. Cups and Bottles.pdb

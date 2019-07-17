@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\bin\Debug\netcoreapp2.1\08. Traffic Jam.deps.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\bin\Debug\netcoreapp2.1\08. Traffic Jam.runtimeconfig.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\bin\Debug\netcoreapp2.1\08. Traffic Jam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\bin\Debug\netcoreapp2.1\08. Traffic Jam.dll
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\bin\Debug\netcoreapp2.1\08. Traffic Jam.pdb
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\obj\Debug\netcoreapp2.1\08. Traffic Jam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\obj\Debug\netcoreapp2.1\08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\obj\Debug\netcoreapp2.1\08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\obj\Debug\netcoreapp2.1\08. Traffic Jam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\obj\Debug\netcoreapp2.1\08. Traffic Jam.dll
+C:\Users\Admin\source\repos\Stacks and Queues - lab\08. Traffic Jam\obj\Debug\netcoreapp2.1\08. Traffic Jam.pdb

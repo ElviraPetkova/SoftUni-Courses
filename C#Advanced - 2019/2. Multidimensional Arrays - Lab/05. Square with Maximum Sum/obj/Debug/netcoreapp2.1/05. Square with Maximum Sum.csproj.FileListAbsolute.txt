@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\bin\Debug\netcoreapp2.1\05. Square with Maximum Sum.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\bin\Debug\netcoreapp2.1\05. Square with Maximum Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\bin\Debug\netcoreapp2.1\05. Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\bin\Debug\netcoreapp2.1\05. Square with Maximum Sum.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\bin\Debug\netcoreapp2.1\05. Square with Maximum Sum.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\obj\Debug\netcoreapp2.1\05. Square with Maximum Sum.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\obj\Debug\netcoreapp2.1\05. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\obj\Debug\netcoreapp2.1\05. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\obj\Debug\netcoreapp2.1\05. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\obj\Debug\netcoreapp2.1\05. Square with Maximum Sum.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\05. Square with Maximum Sum\obj\Debug\netcoreapp2.1\05. Square with Maximum Sum.pdb

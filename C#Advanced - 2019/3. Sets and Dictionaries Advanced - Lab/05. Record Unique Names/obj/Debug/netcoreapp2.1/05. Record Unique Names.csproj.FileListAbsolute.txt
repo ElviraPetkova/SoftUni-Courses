@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.deps.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.runtimeconfig.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\bin\Debug\netcoreapp2.1\05. Record Unique Names.pdb
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.AssemblyInfo.cs
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Lab\05. Record Unique Names\obj\Debug\netcoreapp2.1\05. Record Unique Names.pdb

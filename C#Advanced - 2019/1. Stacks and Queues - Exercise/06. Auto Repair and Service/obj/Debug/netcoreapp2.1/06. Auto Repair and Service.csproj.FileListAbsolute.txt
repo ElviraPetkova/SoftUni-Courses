@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.deps.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.runtimeconfig.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.pdb
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.AssemblyInfo.cs
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.pdb

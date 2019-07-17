@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\bin\Debug\netcoreapp2.1\06. Supermarket.deps.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\bin\Debug\netcoreapp2.1\06. Supermarket.runtimeconfig.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\bin\Debug\netcoreapp2.1\06. Supermarket.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\bin\Debug\netcoreapp2.1\06. Supermarket.dll
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\bin\Debug\netcoreapp2.1\06. Supermarket.pdb
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\obj\Debug\netcoreapp2.1\06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\obj\Debug\netcoreapp2.1\06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\obj\Debug\netcoreapp2.1\06. Supermarket.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\obj\Debug\netcoreapp2.1\06. Supermarket.dll
+C:\Users\Admin\source\repos\Stacks and Queues - lab\06. Supermarket\obj\Debug\netcoreapp2.1\06. Supermarket.pdb

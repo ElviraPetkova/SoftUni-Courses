@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\bin\Debug\netcoreapp2.1\010. Crossroads.deps.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\bin\Debug\netcoreapp2.1\010. Crossroads.runtimeconfig.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\bin\Debug\netcoreapp2.1\010. Crossroads.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\bin\Debug\netcoreapp2.1\010. Crossroads.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\bin\Debug\netcoreapp2.1\010. Crossroads.pdb
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\obj\Debug\netcoreapp2.1\010. Crossroads.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\obj\Debug\netcoreapp2.1\010. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\obj\Debug\netcoreapp2.1\010. Crossroads.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\obj\Debug\netcoreapp2.1\010. Crossroads.AssemblyInfo.cs
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\obj\Debug\netcoreapp2.1\010. Crossroads.dll
+C:\Users\Admin\source\repos\1. Stacks and Queues - Exercise\010. Crossroads\obj\Debug\netcoreapp2.1\010. Crossroads.pdb

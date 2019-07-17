@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.deps.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.pdb
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfo.cs
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.dll
+C:\Users\Admin\source\repos\3. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.pdb

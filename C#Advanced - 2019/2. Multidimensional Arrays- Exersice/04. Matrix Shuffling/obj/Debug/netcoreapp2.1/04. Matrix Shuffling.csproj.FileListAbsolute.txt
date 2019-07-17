@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\bin\Debug\netcoreapp2.1\04. Matrix Shuffling.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\bin\Debug\netcoreapp2.1\04. Matrix Shuffling.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\bin\Debug\netcoreapp2.1\04. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\bin\Debug\netcoreapp2.1\04. Matrix Shuffling.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\bin\Debug\netcoreapp2.1\04. Matrix Shuffling.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\obj\Debug\netcoreapp2.1\04. Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\obj\Debug\netcoreapp2.1\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\obj\Debug\netcoreapp2.1\04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\obj\Debug\netcoreapp2.1\04. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\obj\Debug\netcoreapp2.1\04. Matrix Shuffling.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\04. Matrix Shuffling\obj\Debug\netcoreapp2.1\04. Matrix Shuffling.pdb

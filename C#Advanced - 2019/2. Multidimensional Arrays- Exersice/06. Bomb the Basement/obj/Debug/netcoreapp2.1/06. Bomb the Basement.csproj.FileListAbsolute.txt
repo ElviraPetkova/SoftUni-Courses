@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays- Exersice\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.csprojAssemblyReference.cache

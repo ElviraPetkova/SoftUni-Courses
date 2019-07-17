@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.deps.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.runtimeconfig.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp2.1\04. Symbol in Matrix.pdb
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.dll
+C:\Users\Admin\source\repos\2. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp2.1\04. Symbol in Matrix.pdb
