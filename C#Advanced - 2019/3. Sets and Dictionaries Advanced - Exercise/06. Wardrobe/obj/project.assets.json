@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
       "projectName": "06. Wardrobe",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\06. Wardrobe.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\06. Wardrobe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

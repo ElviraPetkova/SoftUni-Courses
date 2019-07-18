@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
       "projectName": "04. Even Times",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\04. Even Times\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\04. Even Times\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

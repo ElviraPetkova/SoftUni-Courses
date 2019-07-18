@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
       "projectName": "03. Periodic Table",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

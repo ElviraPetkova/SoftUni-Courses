@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.deps.json
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.runtimeconfig.json
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.dll
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.pdb
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.dll
+C:\Users\Admin\Desktop\RepoSoftUniCourses\SoftUni-Courses\C#Advanced - 2019\3. Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.pdb

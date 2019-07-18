@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
       "projectName": "01. Unique Usernames",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\01. Unique Usernames.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\3. Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\RepoSoftUniCourses\\SoftUni-Courses\\C#Advanced - 2019\\3. Sets and Dictionaries Advanced - Exercise\\01. Unique Usernames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
