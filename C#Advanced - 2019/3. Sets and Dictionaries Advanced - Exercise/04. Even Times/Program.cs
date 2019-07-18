@@ -1,28 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _04._Even_Times
 {
     class Program
     {
-        static void Main(string[] args) // 80/100
+        static void Main(string[] args)
         {
             int counter = int.Parse(Console.ReadLine());
 
-            HashSet<int> numbers = new HashSet<int>();
-            int evenNumber = 0;
+            var numbers = new Dictionary<int, int>();
 
             for (int i = 0; i < counter; i++)
             {
                 int numb = int.Parse(Console.ReadLine());
 
-                if (numbers.Contains(numb))
+                if (numbers.ContainsKey(numb) == false)
                 {
-                    evenNumber = numb;
+                    numbers.Add(numb, 0);
                 }
 
-                numbers.Add(numb);
+                numbers[numb]++;
             }
+
+            int evenNumber = numbers
+                .SingleOrDefault(n => n.Value % 2 == 0)
+                .Key;
 
             Console.WriteLine(evenNumber);
         }
