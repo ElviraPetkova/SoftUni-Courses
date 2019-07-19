@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.deps.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.runtimeconfig.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.pdb
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.pdb
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\06. Folder Size\bin\Debug\netcoreapp2.1\TestFolder\2. Simple-Calculations-Exercises.docx

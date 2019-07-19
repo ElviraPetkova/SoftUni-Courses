@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.deps.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.runtimeconfig.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.pdb
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.pdb

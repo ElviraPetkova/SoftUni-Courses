@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\bin\Debug\netcoreapp2.1\05. Slice File\sliceMe.txt
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\bin\Debug\netcoreapp2.1\5. Slice File.deps.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\bin\Debug\netcoreapp2.1\5. Slice File.runtimeconfig.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\bin\Debug\netcoreapp2.1\5. Slice File.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\bin\Debug\netcoreapp2.1\5. Slice File.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\bin\Debug\netcoreapp2.1\5. Slice File.pdb
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\obj\Debug\netcoreapp2.1\5. Slice File.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\obj\Debug\netcoreapp2.1\5. Slice File.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\obj\Debug\netcoreapp2.1\5. Slice File.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\obj\Debug\netcoreapp2.1\5. Slice File.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\5. Slice File\obj\Debug\netcoreapp2.1\5. Slice File.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\Resources\03. Word Count\text.txt
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\Resources\03. Word Count\words.txt
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.deps.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.runtimeconfig.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.pdb
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.dll
+C:\Users\Admin\source\repos\4, Streams-Files-and-Directories-Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.pdb
