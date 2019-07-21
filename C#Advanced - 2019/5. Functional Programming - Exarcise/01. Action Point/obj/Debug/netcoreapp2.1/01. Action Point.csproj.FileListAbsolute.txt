@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\bin\Debug\netcoreapp2.1\01. Action Point.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\bin\Debug\netcoreapp2.1\01. Action Point.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\bin\Debug\netcoreapp2.1\01. Action Point.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\bin\Debug\netcoreapp2.1\01. Action Point.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\bin\Debug\netcoreapp2.1\01. Action Point.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\obj\Debug\netcoreapp2.1\01. Action Point.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\obj\Debug\netcoreapp2.1\01. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\obj\Debug\netcoreapp2.1\01. Action Point.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\obj\Debug\netcoreapp2.1\01. Action Point.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\obj\Debug\netcoreapp2.1\01. Action Point.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\01. Action Point\obj\Debug\netcoreapp2.1\01. Action Point.pdb

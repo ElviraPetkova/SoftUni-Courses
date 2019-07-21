@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\bin\Debug\netcoreapp2.1\09. List of Predicates.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\bin\Debug\netcoreapp2.1\09. List of Predicates.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\bin\Debug\netcoreapp2.1\09. List of Predicates.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\bin\Debug\netcoreapp2.1\09. List of Predicates.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\bin\Debug\netcoreapp2.1\09. List of Predicates.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\obj\Debug\netcoreapp2.1\09. List of Predicates.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\obj\Debug\netcoreapp2.1\09. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\obj\Debug\netcoreapp2.1\09. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\obj\Debug\netcoreapp2.1\09. List of Predicates.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\obj\Debug\netcoreapp2.1\09. List of Predicates.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\09. List of Predicates\obj\Debug\netcoreapp2.1\09. List of Predicates.pdb

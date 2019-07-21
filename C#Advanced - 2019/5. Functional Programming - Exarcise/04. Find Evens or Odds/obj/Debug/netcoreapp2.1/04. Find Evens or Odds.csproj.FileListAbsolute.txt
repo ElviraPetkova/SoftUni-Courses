@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb

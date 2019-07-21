@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\bin\Debug\netcoreapp2.1\012. TriFunction.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\bin\Debug\netcoreapp2.1\012. TriFunction.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\bin\Debug\netcoreapp2.1\012. TriFunction.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\bin\Debug\netcoreapp2.1\012. TriFunction.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\bin\Debug\netcoreapp2.1\012. TriFunction.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\obj\Debug\netcoreapp2.1\012. TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\obj\Debug\netcoreapp2.1\012. TriFunction.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\obj\Debug\netcoreapp2.1\012. TriFunction.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\obj\Debug\netcoreapp2.1\012. TriFunction.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\obj\Debug\netcoreapp2.1\012. TriFunction.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\012. TriFunction\obj\Debug\netcoreapp2.1\012. TriFunction.csprojAssemblyReference.cache

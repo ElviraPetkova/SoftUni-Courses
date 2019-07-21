@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\bin\Debug\netcoreapp2.1\07. Predicate for Names.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\bin\Debug\netcoreapp2.1\07. Predicate for Names.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\bin\Debug\netcoreapp2.1\07. Predicate for Names.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\bin\Debug\netcoreapp2.1\07. Predicate for Names.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\bin\Debug\netcoreapp2.1\07. Predicate for Names.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\obj\Debug\netcoreapp2.1\07. Predicate for Names.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\obj\Debug\netcoreapp2.1\07. Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\obj\Debug\netcoreapp2.1\07. Predicate for Names.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\obj\Debug\netcoreapp2.1\07. Predicate for Names.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\07. Predicate for Names\obj\Debug\netcoreapp2.1\07. Predicate for Names.pdb

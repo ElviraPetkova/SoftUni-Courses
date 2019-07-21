@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.dll
+C:\Users\Admin\source\repos\5. Functional Programming - Exarcise\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.pdb
