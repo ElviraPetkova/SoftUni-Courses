@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.deps.json
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.dll
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\bin\Debug\netcoreapp2.1\04. Add VAT.pdb
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.dll
+C:\Users\Admin\source\repos\5. Functional Programming - lab\04. Add VAT\obj\Debug\netcoreapp2.1\04. Add VAT.pdb
