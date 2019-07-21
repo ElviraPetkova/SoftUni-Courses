@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\bin\Debug\netcoreapp2.1\Resourse\text.txt
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\bin\Debug\netcoreapp2.1\01. Even Lines From txt.deps.json
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\bin\Debug\netcoreapp2.1\01. Even Lines From txt.runtimeconfig.json
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\bin\Debug\netcoreapp2.1\01. Even Lines From txt.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\bin\Debug\netcoreapp2.1\01. Even Lines From txt.dll
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\bin\Debug\netcoreapp2.1\01. Even Lines From txt.pdb
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\obj\Debug\netcoreapp2.1\01. Even Lines From txt.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\obj\Debug\netcoreapp2.1\01. Even Lines From txt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\obj\Debug\netcoreapp2.1\01. Even Lines From txt.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\obj\Debug\netcoreapp2.1\01. Even Lines From txt.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\obj\Debug\netcoreapp2.1\01. Even Lines From txt.dll
+C:\Users\Admin\source\repos\4. Streams, Files - Exercise\01. Even Lines From txt\obj\Debug\netcoreapp2.1\01. Even Lines From txt.pdb
