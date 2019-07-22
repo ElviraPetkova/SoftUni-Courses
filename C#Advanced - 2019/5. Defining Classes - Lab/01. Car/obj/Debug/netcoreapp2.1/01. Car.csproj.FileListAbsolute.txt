@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.deps.json
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.runtimeconfig.json
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.dll
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\bin\Debug\netcoreapp2.1\01. Car.pdb
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.AssemblyInfo.cs
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.dll
+C:\Users\Admin\source\repos\5. Defining Classes - Lab\01. Car\obj\Debug\netcoreapp2.1\01. Car.pdb
