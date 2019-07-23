@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb

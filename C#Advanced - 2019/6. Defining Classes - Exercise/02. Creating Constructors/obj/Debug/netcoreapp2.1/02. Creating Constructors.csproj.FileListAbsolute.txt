@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.deps.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.runtimeconfig.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.pdb
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.AssemblyInfo.cs
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.pdb

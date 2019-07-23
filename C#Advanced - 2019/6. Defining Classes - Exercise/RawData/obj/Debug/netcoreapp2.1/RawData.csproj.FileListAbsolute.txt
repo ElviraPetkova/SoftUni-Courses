@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

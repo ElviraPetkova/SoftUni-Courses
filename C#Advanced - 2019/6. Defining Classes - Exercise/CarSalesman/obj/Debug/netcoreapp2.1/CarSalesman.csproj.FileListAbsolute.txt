@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

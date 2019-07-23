@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\OldestFamilyMember.deps.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\OldestFamilyMember.runtimeconfig.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\OldestFamilyMember.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\OldestFamilyMember.pdb
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\OldestFamilyMember.dll
+C:\Users\Admin\source\repos\6. Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\OldestFamilyMember.pdb
