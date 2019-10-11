@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Problem 1", "01. Problem 1\01. Problem 1.csproj", "{E72617C2-CC28-40F9-97E0-F80023D710DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Deciphering", "02. Deciphering\02. Deciphering.csproj", "{E2F53EC3-0B88-4AB3-BA5C-44DCE5791AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E72617C2-CC28-40F9-97E0-F80023D710DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72617C2-CC28-40F9-97E0-F80023D710DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72617C2-CC28-40F9-97E0-F80023D710DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72617C2-CC28-40F9-97E0-F80023D710DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F53EC3-0B88-4AB3-BA5C-44DCE5791AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F53EC3-0B88-4AB3-BA5C-44DCE5791AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F53EC3-0B88-4AB3-BA5C-44DCE5791AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F53EC3-0B88-4AB3-BA5C-44DCE5791AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31124A1-E63B-4443-A9D9-AEC2C2724A8D}
+	EndGlobalSection
+EndGlobal

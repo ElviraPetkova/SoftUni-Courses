@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Adjacent Equal Numbers", "01. Sum Adjacent Equal Numbers\01. Sum Adjacent Equal Numbers.csproj", "{A41857C1-FEAC-49AC-BCA6-C9D02B19E935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Gauss' Trick", "02. Gauss' Trick\02. Gauss' Trick.csproj", "{9475A4C9-450E-4AC0-9D64-621FCF55DAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41857C1-FEAC-49AC-BCA6-C9D02B19E935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41857C1-FEAC-49AC-BCA6-C9D02B19E935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41857C1-FEAC-49AC-BCA6-C9D02B19E935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41857C1-FEAC-49AC-BCA6-C9D02B19E935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9475A4C9-450E-4AC0-9D64-621FCF55DAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9475A4C9-450E-4AC0-9D64-621FCF55DAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9475A4C9-450E-4AC0-9D64-621FCF55DAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9475A4C9-450E-4AC0-9D64-621FCF55DAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBC05C0-F476-44BB-A16B-15896AFA2EF8}
+	EndGlobalSection
+EndGlobal

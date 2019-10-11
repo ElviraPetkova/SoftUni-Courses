@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\bin\Debug\netcoreapp2.1\06. Equal Sums.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\bin\Debug\netcoreapp2.1\06. Equal Sums.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\bin\Debug\netcoreapp2.1\06. Equal Sums.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\bin\Debug\netcoreapp2.1\06. Equal Sums.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\bin\Debug\netcoreapp2.1\06. Equal Sums.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\obj\Debug\netcoreapp2.1\06. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\obj\Debug\netcoreapp2.1\06. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\obj\Debug\netcoreapp2.1\06. Equal Sums.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\obj\Debug\netcoreapp2.1\06. Equal Sums.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\06. Equal Sums\obj\Debug\netcoreapp2.1\06. Equal Sums.pdb

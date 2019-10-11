@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Feed the Animals", "02. Feed the Animals\02. Feed the Animals.csproj", "{07C707C6-DBB2-4546-9FD2-DAB9D8BC2EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Animal Sanctuary", "01. Animal Sanctuary\01. Animal Sanctuary.csproj", "{D013C1F7-2D4E-45C6-82EB-F19B12A519D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C707C6-DBB2-4546-9FD2-DAB9D8BC2EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C707C6-DBB2-4546-9FD2-DAB9D8BC2EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C707C6-DBB2-4546-9FD2-DAB9D8BC2EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C707C6-DBB2-4546-9FD2-DAB9D8BC2EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D013C1F7-2D4E-45C6-82EB-F19B12A519D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D013C1F7-2D4E-45C6-82EB-F19B12A519D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D013C1F7-2D4E-45C6-82EB-F19B12A519D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D013C1F7-2D4E-45C6-82EB-F19B12A519D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A798298F-EC7D-4B37-890F-C78520EBE50D}
+	EndGlobalSection
+EndGlobal

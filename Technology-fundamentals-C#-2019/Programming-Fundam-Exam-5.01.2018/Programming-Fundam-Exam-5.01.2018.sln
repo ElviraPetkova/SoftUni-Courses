@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Snowballs", "01. Snowballs\01. Snowballs.csproj", "{0FE1BE3C-F81A-4E53-AEE7-C08561D7895D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Snowmen", "02. Snowmen\02. Snowmen.csproj", "{30E2D74C-A13A-41CC-A6EE-4170AE4086B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE1BE3C-F81A-4E53-AEE7-C08561D7895D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE1BE3C-F81A-4E53-AEE7-C08561D7895D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE1BE3C-F81A-4E53-AEE7-C08561D7895D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE1BE3C-F81A-4E53-AEE7-C08561D7895D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E2D74C-A13A-41CC-A6EE-4170AE4086B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E2D74C-A13A-41CC-A6EE-4170AE4086B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E2D74C-A13A-41CC-A6EE-4170AE4086B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E2D74C-A13A-41CC-A6EE-4170AE4086B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03402C05-2FF8-4E26-B0D7-3654715BDE2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\bin\Debug\netcoreapp2.1\4. Fold and Sum.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\bin\Debug\netcoreapp2.1\4. Fold and Sum.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\bin\Debug\netcoreapp2.1\4. Fold and Sum.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\bin\Debug\netcoreapp2.1\4. Fold and Sum.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\bin\Debug\netcoreapp2.1\4. Fold and Sum.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\obj\Debug\netcoreapp2.1\4. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\obj\Debug\netcoreapp2.1\4. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\obj\Debug\netcoreapp2.1\4. Fold and Sum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\obj\Debug\netcoreapp2.1\4. Fold and Sum.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Fold and Sum\obj\Debug\netcoreapp2.1\4. Fold and Sum.pdb

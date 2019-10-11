@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.pdb

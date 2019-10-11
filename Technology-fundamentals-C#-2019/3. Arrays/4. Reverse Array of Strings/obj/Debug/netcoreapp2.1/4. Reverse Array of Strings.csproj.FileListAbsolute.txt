@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\bin\Debug\netcoreapp2.1\4. Reverse Array of Strings.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\bin\Debug\netcoreapp2.1\4. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\bin\Debug\netcoreapp2.1\4. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\bin\Debug\netcoreapp2.1\4. Reverse Array of Strings.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\bin\Debug\netcoreapp2.1\4. Reverse Array of Strings.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\obj\Debug\netcoreapp2.1\4. Reverse Array of Strings.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\obj\Debug\netcoreapp2.1\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\obj\Debug\netcoreapp2.1\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\obj\Debug\netcoreapp2.1\4. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\obj\Debug\netcoreapp2.1\4. Reverse Array of Strings.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\4. Reverse Array of Strings\obj\Debug\netcoreapp2.1\4. Reverse Array of Strings.pdb

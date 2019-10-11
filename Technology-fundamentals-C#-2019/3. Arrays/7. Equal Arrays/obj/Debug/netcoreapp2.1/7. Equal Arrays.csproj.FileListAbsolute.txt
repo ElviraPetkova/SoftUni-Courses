@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\bin\Debug\netcoreapp2.1\7. Equal Arrays.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\bin\Debug\netcoreapp2.1\7. Equal Arrays.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\bin\Debug\netcoreapp2.1\7. Equal Arrays.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\bin\Debug\netcoreapp2.1\7. Equal Arrays.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\bin\Debug\netcoreapp2.1\7. Equal Arrays.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\obj\Debug\netcoreapp2.1\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\obj\Debug\netcoreapp2.1\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\obj\Debug\netcoreapp2.1\7. Equal Arrays.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\obj\Debug\netcoreapp2.1\7. Equal Arrays.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\7. Equal Arrays\obj\Debug\netcoreapp2.1\7. Equal Arrays.pdb

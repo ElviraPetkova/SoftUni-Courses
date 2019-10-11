@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\bin\Debug\netcoreapp2.1\1. Day of Week.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\bin\Debug\netcoreapp2.1\1. Day of Week.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\bin\Debug\netcoreapp2.1\1. Day of Week.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\bin\Debug\netcoreapp2.1\1. Day of Week.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\bin\Debug\netcoreapp2.1\1. Day of Week.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\obj\Debug\netcoreapp2.1\1. Day of Week.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\obj\Debug\netcoreapp2.1\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\obj\Debug\netcoreapp2.1\1. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\obj\Debug\netcoreapp2.1\1. Day of Week.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\obj\Debug\netcoreapp2.1\1. Day of Week.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\1. Day of Week\obj\Debug\netcoreapp2.1\1. Day of Week.pdb

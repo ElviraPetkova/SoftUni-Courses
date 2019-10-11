@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. The Isle of Man TT Race", "01. The Isle of Man TT Race\01. The Isle of Man TT Race.csproj", "{C2177419-4A50-4FE8-8381-3C525C9E1D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Practice Sessions", "02. Practice Sessions\02. Practice Sessions.csproj", "{75789ABD-3836-40AE-AE6E-0C9E8FCAE3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2177419-4A50-4FE8-8381-3C525C9E1D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2177419-4A50-4FE8-8381-3C525C9E1D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2177419-4A50-4FE8-8381-3C525C9E1D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2177419-4A50-4FE8-8381-3C525C9E1D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75789ABD-3836-40AE-AE6E-0C9E8FCAE3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75789ABD-3836-40AE-AE6E-0C9E8FCAE3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75789ABD-3836-40AE-AE6E-0C9E8FCAE3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75789ABD-3836-40AE-AE6E-0C9E8FCAE3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A676678D-8472-45B5-99B9-8CC81B443707}
+	EndGlobalSection
+EndGlobal

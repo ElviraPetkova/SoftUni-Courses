@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\bin\Debug\netcoreapp2.1\5. Sum Even Numbers.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\bin\Debug\netcoreapp2.1\5. Sum Even Numbers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\bin\Debug\netcoreapp2.1\5. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\bin\Debug\netcoreapp2.1\5. Sum Even Numbers.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\bin\Debug\netcoreapp2.1\5. Sum Even Numbers.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\obj\Debug\netcoreapp2.1\5. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\obj\Debug\netcoreapp2.1\5. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\obj\Debug\netcoreapp2.1\5. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\obj\Debug\netcoreapp2.1\5. Sum Even Numbers.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\5. Sum Even Numbers\obj\Debug\netcoreapp2.1\5. Sum Even Numbers.pdb

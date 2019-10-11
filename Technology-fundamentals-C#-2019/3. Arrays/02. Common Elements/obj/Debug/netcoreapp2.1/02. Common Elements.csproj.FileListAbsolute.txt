@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.deps.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.pdb
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.dll
+C:\Users\Admin\Desktop\SoftUni\SoftUni-Courses\Technology-fundamentals-C#-2019\3. Arrays\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.pdb

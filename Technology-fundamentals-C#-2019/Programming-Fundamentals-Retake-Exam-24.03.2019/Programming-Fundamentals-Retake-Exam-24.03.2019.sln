@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bonus System", "01. Bonus System\01. Bonus System.csproj", "{C5304230-F747-4854-A876-B66DF7DCDB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Nascar Qualifications", "02. Nascar Qualifications\02. Nascar Qualifications.csproj", "{2DC62ED4-CC7E-4058-8256-FD7D91BA1BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. International SoftUniada", "04. International SoftUniada\04. International SoftUniada.csproj", "{E5E64A84-5AEB-4E62-A5F2-9B48C4F4927B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Emoji Sumator", "03. Emoji Sumator\03. Emoji Sumator.csproj", "{DBCB11DE-5C09-4F76-B35D-254788E4ABD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5304230-F747-4854-A876-B66DF7DCDB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5304230-F747-4854-A876-B66DF7DCDB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5304230-F747-4854-A876-B66DF7DCDB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5304230-F747-4854-A876-B66DF7DCDB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC62ED4-CC7E-4058-8256-FD7D91BA1BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC62ED4-CC7E-4058-8256-FD7D91BA1BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC62ED4-CC7E-4058-8256-FD7D91BA1BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC62ED4-CC7E-4058-8256-FD7D91BA1BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E64A84-5AEB-4E62-A5F2-9B48C4F4927B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E64A84-5AEB-4E62-A5F2-9B48C4F4927B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E64A84-5AEB-4E62-A5F2-9B48C4F4927B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E64A84-5AEB-4E62-A5F2-9B48C4F4927B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCB11DE-5C09-4F76-B35D-254788E4ABD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB11DE-5C09-4F76-B35D-254788E4ABD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB11DE-5C09-4F76-B35D-254788E4ABD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB11DE-5C09-4F76-B35D-254788E4ABD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162A1D55-3D8B-40F4-8822-4A1E5139BD86}
+	EndGlobalSection
+EndGlobal
