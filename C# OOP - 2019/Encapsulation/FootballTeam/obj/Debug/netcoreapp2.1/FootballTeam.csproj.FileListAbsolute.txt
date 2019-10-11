@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\bin\Debug\netcoreapp2.1\FootballTeam.deps.json
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\bin\Debug\netcoreapp2.1\FootballTeam.runtimeconfig.json
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\bin\Debug\netcoreapp2.1\FootballTeam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\bin\Debug\netcoreapp2.1\FootballTeam.dll
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\bin\Debug\netcoreapp2.1\FootballTeam.pdb
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\obj\Debug\netcoreapp2.1\FootballTeam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\obj\Debug\netcoreapp2.1\FootballTeam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\obj\Debug\netcoreapp2.1\FootballTeam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\obj\Debug\netcoreapp2.1\FootballTeam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\obj\Debug\netcoreapp2.1\FootballTeam.dll
+C:\Users\Admin\source\repos\Encapsulation\FootballTeam\obj\Debug\netcoreapp2.1\FootballTeam.pdb

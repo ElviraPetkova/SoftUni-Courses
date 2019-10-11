@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\bin\Debug\netcoreapp2.1\CreateCustomStack.deps.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\bin\Debug\netcoreapp2.1\CreateCustomStack.runtimeconfig.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\bin\Debug\netcoreapp2.1\CreateCustomStack.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\bin\Debug\netcoreapp2.1\CreateCustomStack.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\bin\Debug\netcoreapp2.1\CreateCustomStack.pdb
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\obj\Debug\netcoreapp2.1\CreateCustomStack.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\obj\Debug\netcoreapp2.1\CreateCustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\obj\Debug\netcoreapp2.1\CreateCustomStack.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\obj\Debug\netcoreapp2.1\CreateCustomStack.AssemblyInfo.cs
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\obj\Debug\netcoreapp2.1\CreateCustomStack.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\CreateCustomStack\obj\Debug\netcoreapp2.1\CreateCustomStack.pdb

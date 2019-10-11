@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.deps.json
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.json
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp2.1\CustomRandomList.pdb
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.dll
+C:\Users\Admin\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp2.1\CustomRandomList.pdb

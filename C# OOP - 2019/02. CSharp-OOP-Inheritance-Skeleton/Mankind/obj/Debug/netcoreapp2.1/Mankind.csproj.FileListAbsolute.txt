@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\bin\Debug\netcoreapp2.1\Mankind.deps.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\bin\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\bin\Debug\netcoreapp2.1\Mankind.pdb
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\obj\Debug\netcoreapp2.1\Mankind.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\obj\Debug\netcoreapp2.1\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfo.cs
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\obj\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mankind\obj\Debug\netcoreapp2.1\Mankind.pdb

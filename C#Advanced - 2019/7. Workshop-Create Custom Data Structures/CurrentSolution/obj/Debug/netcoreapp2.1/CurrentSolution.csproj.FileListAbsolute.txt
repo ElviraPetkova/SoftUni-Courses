@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\bin\Debug\netcoreapp2.1\CurrentSolution.deps.json
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\bin\Debug\netcoreapp2.1\CurrentSolution.runtimeconfig.json
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\bin\Debug\netcoreapp2.1\CurrentSolution.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\bin\Debug\netcoreapp2.1\CurrentSolution.dll
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\bin\Debug\netcoreapp2.1\CurrentSolution.pdb
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\obj\Debug\netcoreapp2.1\CurrentSolution.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\obj\Debug\netcoreapp2.1\CurrentSolution.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\obj\Debug\netcoreapp2.1\CurrentSolution.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\obj\Debug\netcoreapp2.1\CurrentSolution.AssemblyInfo.cs
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\obj\Debug\netcoreapp2.1\CurrentSolution.dll
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\CurrentSolution\obj\Debug\netcoreapp2.1\CurrentSolution.pdb

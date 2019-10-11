@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.pdb

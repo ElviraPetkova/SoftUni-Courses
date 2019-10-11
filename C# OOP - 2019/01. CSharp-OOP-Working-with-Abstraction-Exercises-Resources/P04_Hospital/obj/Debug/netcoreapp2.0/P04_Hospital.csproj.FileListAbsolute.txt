@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\Users\Admin\Downloads\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

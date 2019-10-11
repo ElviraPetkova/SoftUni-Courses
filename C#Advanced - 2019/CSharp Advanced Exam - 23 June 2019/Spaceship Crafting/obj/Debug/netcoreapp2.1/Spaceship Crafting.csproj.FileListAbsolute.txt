@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\bin\Debug\netcoreapp2.1\Spaceship Crafting.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\bin\Debug\netcoreapp2.1\Spaceship Crafting.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\bin\Debug\netcoreapp2.1\Spaceship Crafting.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\bin\Debug\netcoreapp2.1\Spaceship Crafting.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\bin\Debug\netcoreapp2.1\Spaceship Crafting.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\obj\Debug\netcoreapp2.1\Spaceship Crafting.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\obj\Debug\netcoreapp2.1\Spaceship Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\obj\Debug\netcoreapp2.1\Spaceship Crafting.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\obj\Debug\netcoreapp2.1\Spaceship Crafting.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\obj\Debug\netcoreapp2.1\Spaceship Crafting.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 23 June 2019\Spaceship Crafting\obj\Debug\netcoreapp2.1\Spaceship Crafting.pdb

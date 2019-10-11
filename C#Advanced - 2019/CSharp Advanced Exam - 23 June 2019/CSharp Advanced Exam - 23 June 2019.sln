@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceship Crafting", "Spaceship Crafting\Spaceship Crafting.csproj", "{C9922084-EF1A-4AC7-A3AC-964CF2803988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Station Establishment", "Space Station Establishment\Space Station Establishment.csproj", "{223A06F7-6036-4F68-8CE3-C4F8A550BF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9922084-EF1A-4AC7-A3AC-964CF2803988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9922084-EF1A-4AC7-A3AC-964CF2803988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9922084-EF1A-4AC7-A3AC-964CF2803988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9922084-EF1A-4AC7-A3AC-964CF2803988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223A06F7-6036-4F68-8CE3-C4F8A550BF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223A06F7-6036-4F68-8CE3-C4F8A550BF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223A06F7-6036-4F68-8CE3-C4F8A550BF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223A06F7-6036-4F68-8CE3-C4F8A550BF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5143AF6-BB64-4654-BDE9-AC0366D5E140}
+	EndGlobalSection
+EndGlobal

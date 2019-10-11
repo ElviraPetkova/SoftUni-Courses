@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.dll
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\bin\Debug\netcoreapp2.1\TrojanInvasion.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.dll
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam 16 April 2019\TrojanInvasion\obj\Debug\netcoreapp2.1\TrojanInvasion.pdb

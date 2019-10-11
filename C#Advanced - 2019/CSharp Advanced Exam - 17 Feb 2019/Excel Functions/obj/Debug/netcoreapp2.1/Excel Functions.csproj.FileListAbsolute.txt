@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.pdb

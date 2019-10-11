@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.deps.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.pdb

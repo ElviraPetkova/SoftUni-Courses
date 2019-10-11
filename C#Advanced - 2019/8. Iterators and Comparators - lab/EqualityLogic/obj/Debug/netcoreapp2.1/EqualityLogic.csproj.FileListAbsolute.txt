@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.deps.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.runtimeconfig.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.pdb
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.pdb
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.csprojAssemblyReference.cache

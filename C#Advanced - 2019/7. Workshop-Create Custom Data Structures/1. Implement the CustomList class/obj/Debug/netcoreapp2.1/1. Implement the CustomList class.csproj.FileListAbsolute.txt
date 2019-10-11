@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\bin\Debug\netcoreapp2.1\1. Implement the CustomList class.deps.json
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\bin\Debug\netcoreapp2.1\1. Implement the CustomList class.runtimeconfig.json
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\bin\Debug\netcoreapp2.1\1. Implement the CustomList class.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\bin\Debug\netcoreapp2.1\1. Implement the CustomList class.dll
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\bin\Debug\netcoreapp2.1\1. Implement the CustomList class.pdb
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\obj\Debug\netcoreapp2.1\1. Implement the CustomList class.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\obj\Debug\netcoreapp2.1\1. Implement the CustomList class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\obj\Debug\netcoreapp2.1\1. Implement the CustomList class.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\obj\Debug\netcoreapp2.1\1. Implement the CustomList class.AssemblyInfo.cs
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\obj\Debug\netcoreapp2.1\1. Implement the CustomList class.dll
+C:\Users\Admin\source\repos\7. Workshop-Create Custom Data Structures\1. Implement the CustomList class\obj\Debug\netcoreapp2.1\1. Implement the CustomList class.pdb

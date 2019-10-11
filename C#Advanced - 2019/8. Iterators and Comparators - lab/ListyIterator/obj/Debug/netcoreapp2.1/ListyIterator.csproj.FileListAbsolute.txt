@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.deps.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.pdb
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\Admin\source\repos\8. Iterators and Comparators - lab\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.pdb

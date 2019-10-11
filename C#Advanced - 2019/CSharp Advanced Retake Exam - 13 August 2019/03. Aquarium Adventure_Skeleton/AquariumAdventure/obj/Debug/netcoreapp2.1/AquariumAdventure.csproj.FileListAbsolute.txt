@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.deps.json
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.runtimeconfig.json
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.dll
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.pdb
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.AssemblyInfo.cs
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.dll
+C:\Users\Admin\Downloads\03. Aquarium Adventure_Skeleton\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.pdb

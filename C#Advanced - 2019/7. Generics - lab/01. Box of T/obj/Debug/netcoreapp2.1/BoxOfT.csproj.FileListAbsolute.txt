@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\bin\Debug\netcoreapp2.1\BoxOfT.deps.json
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.json
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\bin\Debug\netcoreapp2.1\BoxOfT.dll
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\bin\Debug\netcoreapp2.1\BoxOfT.pdb
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\obj\Debug\netcoreapp2.1\BoxOfT.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\obj\Debug\netcoreapp2.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfo.cs
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\obj\Debug\netcoreapp2.1\BoxOfT.dll
+C:\Users\Admin\source\repos\7. Generics - lab\01. Box of T\obj\Debug\netcoreapp2.1\BoxOfT.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp2.1\Socks.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp2.1\Socks.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp2.1\Socks.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp2.1\Socks.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\bin\Debug\netcoreapp2.1\Socks.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp2.1\Socks.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp2.1\Socks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp2.1\Socks.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp2.1\Socks.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp2.1\Socks.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 17 Feb 2019\Socks\obj\Debug\netcoreapp2.1\Socks.pdb

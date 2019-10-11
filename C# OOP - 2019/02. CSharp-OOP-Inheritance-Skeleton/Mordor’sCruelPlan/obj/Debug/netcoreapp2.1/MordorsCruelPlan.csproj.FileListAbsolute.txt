@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.deps.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.pdb
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfo.cs
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\Mordor’sCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

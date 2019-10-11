@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.deps.json
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.json
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.pdb
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\Users\Admin\source\repos\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.pdb

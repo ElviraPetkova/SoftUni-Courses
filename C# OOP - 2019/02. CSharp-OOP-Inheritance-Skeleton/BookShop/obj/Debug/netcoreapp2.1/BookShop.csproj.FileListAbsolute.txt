@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Inheritance-Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.deps.json
+C:\Users\Admin\Downloads\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.json
+C:\Users\Admin\Downloads\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.dll
+C:\Users\Admin\Downloads\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.pdb
+C:\Users\Admin\Downloads\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfo.cs
+C:\Users\Admin\Downloads\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.dll
+C:\Users\Admin\Downloads\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.pdb

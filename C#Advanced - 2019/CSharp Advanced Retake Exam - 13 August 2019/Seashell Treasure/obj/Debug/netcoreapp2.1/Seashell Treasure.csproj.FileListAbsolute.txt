@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.dll
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.dll
+C:\Users\Admin\source\repos\CSharp Advanced Retake Exam - 13 August 2019\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.pdb

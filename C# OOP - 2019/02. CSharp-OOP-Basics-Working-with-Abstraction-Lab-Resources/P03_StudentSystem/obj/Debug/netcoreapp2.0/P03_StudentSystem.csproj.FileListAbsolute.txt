@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\Users\Admin\Downloads\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

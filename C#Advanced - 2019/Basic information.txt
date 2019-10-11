@@ -1,0 +1,257 @@
+1. Stack => Abstract data type (LIFO - last in, first out).
+Stacks provide the following functionality: pushing an element at the top of the stack(Push),
+popping element from the top of the stack(Pop), getting the topmost element without removing it(Peek).
+
+2. Queue => Abstract data type (FIFO - first in, first out).
+Queues provide the following functionality: adding an element at the end of the queue(Enqueue),
+removing the first element from the queue(Dequeue), getting the first element 
+of the queue without removing it(Peek).
+
+3. Multidimensional array => Array is a systematic arrangement of similar object.
+Have more than one dimension. 
+<T> [,] matrix = new <T>[3, 4]; => 2-dimension array (rows = 3, cols = 4).
+<T> [, ,] otherMatrix = new <T>[2, 3, 1]; => 3-dimension array.
+Matrices are represented by a list ot rows(rows consist of list of values).
+The first dimension comes firs, the second comes next(inside the firs).
+
+4. Jagged array => Multidimensional arrays, but each dimension has different size.
+A jagged array is a array of arrays and each of the arrays has different lenght.
+<T> [][] = jaggedArray = new <T>[3][];(rows = 3, cols - for every row lenght for col is different).
+
+5. Associative arrays(Maps, Dictionaries) => Associative arrays are arrays indexed by keys.
+Hold a set of pairs (key -> value).
+Dictionary<K,V> - collection of key and value pairs. Keys are unique. Keep the keys in their 
+order of addition. Uses a hash-table + list. 
+SortedDictionary<K, V> keeps its keys always sorted. Uses a balanced search tree.
+Multi-Dictionaries - a dictionary coult hold a set of values by given key(example - list<T>,).
+Nested Dictionary - dictionary may hold another dictionary as value.
+
+6. Set and HashSet<T> => a set keeps unique elements. 
+Allows add/remove/search elements. Very fast performance.
+
+HashSet<T> => keeps a set of elements in a hash-table. Elements are in no particular order.
+Similar to List<T>. 
+Diffrents(HashSet<T> fast add/search/remove, List<T> fast add, slow search/remove.
+HashSet<T> does not allow duplicates, List<T> can duplicates.
+HashSet<T> does not quarantee the insertion order, List<T> insertion order is quaranteed).
+
+SortedSet<T> => the elements are ordered increementally.
+
+7. Stream => Streams are used to transfer data. Serve as Input/Output mechanisms.
+We open a stream to: Read data and Write data.
+Streams are means for tranferring(reading and writing) data. Streams are ordered sequences of 
+bytes(provide sequential access to its elements). Different types of streams are available 
+to access different data sources: File access, network access, memory streams and others.
+Streams are opened before using them and closed after than.
+
+Readers and writers are classes, which facilitate the work with streams. Two types of streams:
+Text readers/writers - StreamReader/StreamWriter (provide methods ReadLine(), WriteLine() - 
+similar to working with the ssystem class Console).
+Binary readers/writers - BinaryReader/BinaryWriter(provide methods for working with 
+primitive types, ReadInt32(), ReadBoolean(), WriteChar()...)
+Streams, readers, files... use certain resouces. Using statement closes them 
+and releases their resouces (exaple: var reader = new StreamReader(fileName); using(reader){};).
+
+FileStream Class => Inherits the Stream class and supports all its methods and properties.
+The constructor contains parameters for: File name, File open mode, File access mode, 
+Concurrent users access mode.
+FileMode - opennig file mode (Open, Append, Create, CreateNew, OpenOrCreate, Truncate).
+FileAccess - operations mode for the file(Read, Write, ReadWrite).
+FileShare - access rules for other users while file is opened(None, Read, Write, ReadWrite).
+Exaple: var fileStream = new FileStream("fileName", FileMode.Create);
+
+File class in .Net => .Net working with files.
+File.WriteAllText(), File.WriteAllLines(), File.AppendAllText()...
+
+8. Functional Programming => is a declarative type of programming style. Its main focus 
+is on ""what to solve" in contrast to an imperative style where the main focus is "how to solve".
+Functions are Firs-Class or Higher-Order(Higher-order functions are functions that can either
+take other functions as arguments or return them as results).
+Treats computation as the evaluation of mathematical functions avoiding state and multable data.
+There can't be any information accessed beside the input variables.
+The output value of a function depends only on the arguments that are passee to thr function.
+
+9. Lambda Expressions => is an anonymous function containing expressions and statements.
+Lambda syntax: (parameters) => {body}. Use the lambda operator "=>"(read as "goes to").
+Parameters can be enclosed in parentheses(). The body holds the expression or statement and
+can be enclosed in braces {}.
+Implicit(косвен) lambda expression - msg => Console.WriteLine(msg);
+Explicit(определен) lambda expression - (String msg) => {Console.WriteLine(msg);}
+Zero parameters - () => {Console.WriteLine("hi");} or () => MyMetod();
+More parameters - (int x, int y) => {return x + y;}
+
+10. Delegates => Func<T, V>, Action <T>
+A delegate is a type that represents references to methods witth a particular parameter list 
+and return type. Used to pass methods as arguments to other methods. Can by used to define 
+callback methods.
+
+Func<inputType, OutputType> nameFunc = input Parameters => return expression
+Exaple: Func<string, int> myParseInt = s => int.Parse(s);
+Input and output type can be different type. Input and output type must be from type which we
+declare them. Func generic delegate use type parameters to define the number and types of input 
+parameters, and the return type of the delegate.
+
+Action<T> - in .Net Action<T> is a void method. Instead of writing the method we can do:
+Action<inputType> nameAction = input Parameters => work something, don't return data
+Exaple: Action<string> print = mess => Console.WriteLine(mess);
+Func<Input,Input,Input,Output>, but Action<Input,Input,Input,Input>
+
+11. Abstract data class => data type whose representation is hidden from the client.
+You don't need to know impelentation to use an ADT(abstract data type).
+
+12. Defining Simple Class => Class is a concrete implementation of an ADT. Classes provide 
+structure for describing and creating objects. Name classes with nouns using PascalCasing.
+Use desciptive nouns. Avoid abbreviations (except widely known, e.g. URL, HTTP...).
+Class is made up of state(състояние) and behavior(поведение). Fields store state, 
+methods describe behaviour. Class is template, object is instances on the class. A class can have
+many instances(objects), but class is one. Classes provide structure for describing and creating
+objest, an object is a single instance of a class.
+Object reference - declaring a variable creates a reference in the stack. The new keyword allocates
+memory on the heap. Stack save reference number(exaple: cat2(1240e19d)).
+Class fields have type and name. Classes and class members have modifiers that define visibility.
+Modifiers can be public, prived, protected, internal. Class is public, fields is prived(недостъпни).
+Properties => used to create accessors and mutators(getters and setters). Getter provides access 
+to the fiels, setter provided field change and cheking validation.
+Аrrangement on the class => 1) prived fields, 2) constructor, 3) properties, 4) public methods, 5)
+prived methods, if have static methods, than static methods is previos non static methods.
+Methods store executable(изпълним) code(algorithm) that manipulate state.
+Constructors => special methods, executed during object creation. Constructors set object's 
+initial state. You can have multiple constructors in the same class. 
+Constructors can call each other(with keyword ":this()").
+
+13. <T> => Generics add type safety. Generic code is more reusable.
+Classes, interfaces and methods can be generic. Generic Constraints can validate generic types.
+
+14. Iterators => IEnumerable<T> and IEnumerator <T>.
+IEnumerable<T> => Root interface of .Net, enables simple iteration over a collection. Contains a 
+single method GetEnumerator(), which returns an IEnumerator<T>. A class that implements the 
+IEnumerable<T> can be used in a foreach loop traversal. Exaple: 
+
+public interface IEnumerable<T> : IEnumerable
+{
+    IEnumerator<T> GetEnumerator();
+}
+
+public interface IEnumerable
+{
+    IEnumerator GetEnumerator();
+}
+
+IEnumerator<T> => privedes the sequential, forward-only iteration over a collection of any type.
+Methods: MoveNext() - advances the enumerator to the next element of the collection; Reset() - 
+sets the enumerator to its initial position.
+Properties: Current - returns the element int he collection at the current position 
+of the enumerator. Exaple:
+
+public interface IEnumerator<T> : IEnumerator
+{
+    bool MoveNext();
+    void Reset();
+    T Current { get; }
+}
+public interface IEnumerator
+{
+    bool MoveNext();
+    void Reset();
+    object Current { get; }
+}
+
+Yield Return => Indicates that the member in which it appears is an iterator. Simplifies the
+IEnumerator<T> implementations. Returns one element upon each loop cycle. Exaple:
+
+private readonly List<Book> books;
+public IEnumerator<Book> GetEnumerator()
+{
+    for (int i = 0; i < this.books.Count; i++)    
+        yield return this.books[i];    
+}
+
+15. Params => takes a variable number of arguments. Only one params keyword is allowed in a method
+declaration. Should always be last. Exaple: params <T>[] nameParameters(params string[] names).
+
+16. Comparators => IComparable<T> and IComparer<T>.
+IComparable<T> => reads out as "I am Comparable". Provides a method of comparing two objects
+of a particular type - CompareTo(). Sets a default sort order for the particular objects type.
+Affects original class. Exaple: 
+
+class Point : IComparable<Point>
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+	
+    public int CompareTo(Point otherPoint)
+    {
+        if (this.X != otherPoint.X)        
+            return (this.X - otherPoint.X);
+        if (this.Y != otherPoint.Y)        
+            return (this.Y – otherPoint.Y);        
+        return 0;
+    }
+}
+
+IComparer<T> => reads out as "Ï'm a comparer" or "I compare". Provides a way to customize 
+the sort order of a collection. Defines a method that a type implements to compare two objects.
+Does't affect original class. Exaple:
+
+class CatComparer : IComparer<Cat>
+{
+    public int Compare(Cat x, Cat y)
+    {
+        return x.Name.CompareTo(y.Name);
+    }
+}
+
+IComparer<Cat> comparer = new CatComparer();
+
+var catsByName = new SortedSet(comparer);
+
+17. Recursion => problem solving technique. Divides a problem into subproblems of the same type
+(Involves a function calling itself. The function should have a base case. Each step of the 
+recursion should move towards the base case.).Exaple:
+1) Sum(array) = 0 + 1 + 2 + 3 + 4. 2) array[0] + Sum(sub-array).
+Direct recursion - a method directly calls itself(void(A){...A();}).
+Indirect recursion - method A calls B, method B calls A, or even A->B->c->A
+(void A() {...B();}, void B(){...A();}).
+Recursive methods have 3 parts: 1)Pre-actions(before calling the recursion), 2) Recursive calls
+(step-in), 3) Post-actions(after returning from recursion).
+
+18. Greedy algorithms => are a category of algorithms(For solving optimization problems. Usually
+more effecien tnah the other algorithms(But can produce non-optimal(incorect) result)).
+Greedy algorithms pick the best local solution(Pick the optimum from their current position & 
+point of view). Greedy algorithms assume always choosing a local optimum leads to the global optimum
+(This is sometimes correct, but sometimes it is not).
+
+19. Sorting algorithm => an algorithm that rearranges elements in a list(In non-decreasing order).
+Elements must be comparable. More formally(The input is a sequence/list of elements. The output
+is an rearrangement/permutation ofelements(In non-descreasing order)).
+Sorting algorithms are often classified by:
+1)Compulational complexity and memory usage(Worst,
+averange and best case behavior). 
+2) Recursive/ non - reference
+3) Stability - stable/unstable
+4) Comparison-based sort / non comparasion based
+5) Sorting method: insertion, exchange(bubble sort and quicksort), selection(heapsort), merging,
+serial/parallel...
+
+Stable sorting algorithms=> Maitain the order of equal elements. If two items compare as equal,
+their relative order is presserved.
+Unstable sorting algorithms => Rearrange the equal elements in unpredictable order.
+Often different elements have same key used for equality comparing.
+
+Bubble Sort => simple, but inefficient algorithm. Swaps to neighbor elements 
+when not in order until sorted. Memory: O(1). Stable: Yes. Method: Exchanging.
+
+Search algorithm => an algorithm for finfing an item with specified properties among a collection
+of items(A search typically answers aither True ot False as to whether the item is present.
+Also may return where the item is found).The values might be integers, or strings ot even
+other kinds of objects.
+
+Linear search => finds a particual value in a list. Cheking every one of the elements.
+One at a time, in sequence. Until the desired on is found. Worst & averange performance: 0(n).
+
+Binary search => finds an item within a ordered data structure. At each step, compare the input
+with the middle element(The algorithm repeats its action to the left ot right sub-structure).
+Complexity: 0(log n).
+
+
+

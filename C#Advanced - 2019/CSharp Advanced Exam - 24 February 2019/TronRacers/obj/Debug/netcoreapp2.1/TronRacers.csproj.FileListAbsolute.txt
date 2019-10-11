@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.deps.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.pdb
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.dll
+C:\Users\Admin\source\repos\CSharp Advanced Exam - 24 February 2019\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.pdb

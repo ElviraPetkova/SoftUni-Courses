@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.deps.json
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.runtimeconfig.json
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.dll
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp2.1\PersonsInfo.pdb
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.dll
+C:\Users\Admin\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp2.1\PersonsInfo.pdb
