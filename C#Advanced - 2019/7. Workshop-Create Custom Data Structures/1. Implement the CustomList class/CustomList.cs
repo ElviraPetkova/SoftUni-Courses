@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-
-namespace _1._Implement_the_CustomList_class
+﻿namespace _1._Implement_the_CustomList_class
 {
+    using System;
+    using System.Collections;
+    using System.Collections.Generic;
+
     public class CustomList<T> : IEnumerable<T>
     {
         private const int InitialCapacity = 2;
@@ -16,11 +16,37 @@ namespace _1._Implement_the_CustomList_class
 
         public int Count { get; private set; }
 
+        private void Shift(int index)
+        {
+            for (int i = index; i < this.Count - 1; i++)
+            {
+                this.items[i] = this.items[i + 1];
+            }
+        }
+
+        private void Shrink()
+        {
+            T[] copy = new T[this.items.Length / 2];
+            for (int i = 0; i < this.Count; i++)
+            {
+                copy[i] = this.items[i];
+            }
+            this.items = copy;
+        }
+
+        private void ShiftToRight(int index)
+        {
+            for (int i = Count; i < index; i++)
+            {
+                this.items[i] = this.items[i - 1];
+            }
+        }
+
         public T this[int index]
         {
             get
             {
-                if(index >= this.Count)
+                if(index >= this.Count || index < 0)
                 {
                     throw new ArgumentOutOfRangeException();
 
@@ -30,7 +56,7 @@ namespace _1._Implement_the_CustomList_class
 
             set
             {
-                if(index >= this.Count)
+                if(index >= this.Count || index < 0)
                 {
                     throw new ArgumentOutOfRangeException();
                 }
@@ -73,24 +99,6 @@ namespace _1._Implement_the_CustomList_class
                 this.items[this.Count] = values[i];
                 Count++;
             }
-        }
-
-        private void Shift(int index)
-        {
-            for (int i = index; i < this.Count - 1; i++)
-            {
-                this.items[i] = this.items[i + 1];
-            }
-        }
-
-        private void Shrink()
-        {
-            T[] copy = new T[this.items.Length / 2];
-            for (int i = 0; i < this.Count; i++)
-            {
-                copy[i] = this.items[i];
-            }
-            this.items = copy;
         }
 
         public T RemoveAt(int index)
@@ -155,14 +163,6 @@ namespace _1._Implement_the_CustomList_class
             return isRemoved;
         }
 
-        private void ShiftToRight(int index)
-        {
-            for (int i = Count; i < index; i++)
-            {
-                this.items[i] = this.items[i - 1];
-            }
-        }
-
         public void Insert(int index, T element)
         {
             if(index > this.Count)
@@ -207,6 +207,20 @@ namespace _1._Implement_the_CustomList_class
             }
 
             return index;
+        }
+
+        public void Swap(int firstIndex, int secondIndex)
+        {
+            if(firstIndex < 0 || firstIndex >= this.Count || secondIndex < 0 || secondIndex >= this.Count)
+            {
+                throw new IndexOutOfRangeException();
+            }
+
+            T firstElement = this.items[firstIndex];
+            T secondElement = this.items[secondIndex];
+
+            this.items[firstIndex] = secondElement;
+            this.items[secondIndex] = firstElement;
         }
 
         public IEnumerator<T> GetEnumerator()

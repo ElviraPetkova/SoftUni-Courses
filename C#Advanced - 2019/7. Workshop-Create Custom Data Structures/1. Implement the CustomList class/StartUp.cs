@@ -6,6 +6,19 @@ namespace _1._Implement_the_CustomList_class
     {
         public static void Main()
         {
+            DoublyLinkedList<int> myList = new DoublyLinkedList<int>();
+            myList.AddLast(5);
+            myList.AddLast(15);
+            myList.AddLast(30);
+            myList.AddLast(100);
+            myList.AddLast(200);
+            myList.AddLast(300);
+            Console.WriteLine(myList.Count);
+            myList.ForEach(x => Console.WriteLine(x));
+            Console.WriteLine(myList.RemoveLast());
+            var array = myList.ToArray();
+            Console.WriteLine(string.Join(" ", array));
+
             CustomList<int> currentList = new CustomList<int>();
             currentList.Add(8);
             currentList.Add(10);
@@ -33,6 +46,9 @@ namespace _1._Implement_the_CustomList_class
             currentList.RemoveAll(100);
             Console.WriteLine(currentList.Count);
             Console.WriteLine(string.Join(",", currentList));
+            currentList.Swap(2, 5);
+            Console.WriteLine(string.Join(",", currentList));
+            
 
 
             CustomList<string> stringList = new CustomList<string>();
@@ -54,6 +70,21 @@ namespace _1._Implement_the_CustomList_class
             Console.WriteLine(stringList.Remove("100"));
             Console.WriteLine(stringList.Count);
             Console.WriteLine(string.Join(", ", stringList));
+            Console.WriteLine();
+
+            CustomStack<string> stackFromInt = new CustomStack<string>();
+            stackFromInt.Push("Hello");
+            stackFromInt.Push("Mimi");
+            stackFromInt.Push("Hi");
+            stackFromInt.Push("Zdr");
+            stackFromInt.Push("Validation");
+            Console.WriteLine(stackFromInt.Count);
+            Console.WriteLine();
+            Console.WriteLine(stackFromInt.Pop());
+            Console.WriteLine(stackFromInt.Count);
+            Console.WriteLine(stackFromInt.Peek());
+            Console.WriteLine();
+            stackFromInt.ForEach(x => Console.WriteLine(x));
         }
     }
 }
