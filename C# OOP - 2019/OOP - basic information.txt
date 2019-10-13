@@ -1,0 +1,300 @@
+OOP
+1. Working with Abstraction => Well organized code is easier to work with. We can reduce complexity
+Methods, Classes and Projects. We can refactor existing code by breaking code apart. Enumerations
+define a fixed set of constants(represent numeric values; we can easily cast enums to numeric types).
+
+Methods => Splitting Code into Methods:
+1)We use methods to split code into functional blocks. 
+  -> Improves code readability(четливост).
+  -> Allows for easier debugging.
+2) Methods lets us easily reuse code.
+3) We change the method once to affect all calls.
+4) A single method should complete a single task.
+
+Classes => Splitting Code into Classes:
+1) Just like methods, classes should not know or do too mush.
+2) We can also break our code up logically into classes.
+
+Refactoring
+1) Restructures code without changing the behaviour(Промяна на кода, без да се променя поведението).
+2) Improves code readability(Подобрява четимостта).
+3) Reduces complexity(Намалява сложността).
+Techniques for refactoring:
+ -> Breaking code into reusable units.
+ -> Extracting(Извличане) parts of methods and classes into new ones.
+ -> Improving names of variables, methods, classes...
+ -> Movining methods or fields to more appropriate classes.
+ 
+ Enumerations => Represent a numeric value from a fixed set as a text. We can use them to pass arguments
+ to methods without making code confusing(объркващ). By default enums start at 0 and every next value
+ is incremented by 1. Example: enum Day {Mon, Tue, Wed, Thu, Fri, Sat, Sun }.
+ 
+ 2. Encapsulation 
+  -> Process of wrapping(опаковане) code and data together into a single unput.
+  -> Flexibility(гъвкавост) and extensibility(разширяемост) of the code 
+  -> Reduces complexity(сложността)
+  -> Structural changes remain local(Структурните промени остават локални)
+  -> Allows validation and data binding(обвързване на данни)
+  -> Fields should be private, Properties should be public.
+  
+Keyword this
+  -> Reference to the current object
+  -> Refers to the current instance of the classes
+  -> Can be passed as a parameter to other methods
+  -> Can be return from method
+  -> Can invoke current class methods
+
+Accesss Modifiers 
+ -> Private Accesss Modifier - Main way to perform encapsulation and hide data from the outside world.
+Private is teh default field and method modifier. Avoid declaring private changing and interfaces 
+(Accessible only within the declared class inself).
+ -> Public Accesss Modifier - The most permissive access level. There are no restrictions on accessing
+public members. To access class directly from a namespace you can use the using keyword to include 
+the namespace.
+ -> Internal Accesss Modifier - Internal is the default class access modifier. Accessible to any
+other class in the same project.
+
+Validation => Setters are good place for simple data validation. Callers of your methods should take care
+of handling exceptions. Constructors ude private setters with validation logic. Guarentee valid state
+of the object after its creation.
+
+Mutable and Immutable object
+Mutable object -> The contents of that instance can be altered.
+Immutable object -> The contents of the instance can't be altered. 
+Mutable fields -> Private mutable fields are still not encapsulated. In this case you can access the
+field methods through the getter. You can use IReadOnlyCollection to encapsulate collections.
+
+3. Inheritance(Наследяване) => Superclass - Parent class, Base class(The class giving its members
+to its child class). Subclass - Child class, Derived class(The class taking members from its base class).
+ -> Inheritance leads to hierarchies of classes and/or interfaces in an aplication. 
+ -> In C# inheritance is defined by the ":" operator. 
+ -> Derived classes take all members from base classes. 
+ -> You can access inherited members as usual. 
+ -> Constructors are not inherited. Constructors can be reused by the child classes. 
+Exaple: public class Student : Person{public class Student(string name): base(name){}}
+(Use keyword ":base()") for constructors.
+ -> Inheritance has a transitive relation
+ -> In C# there is no multiple inheritance. Only multiple interfaces can be implemented.
+ -> Derived classes can access all public and protected members. They can access internal members if in
+same assembly. Private fields are not inherited in subclasses. 
+ -> Derived classes can hide superclass variables.
+ -> Virtual Method - defines a method that can be overriden.
+ -> We can extend a class that we can't otherwise change.
+
+Extension
+ -> Duplicate code is error prone.
+ -> Reuse classes throught extension.
+ -> Sometimes the only way.
+
+Composition -> Using classes to define classes.
+
+Look for IS-A and IS-A-Substitute!!!
+
+4. Abstraction, Interfaces and Abstract class
+
+Abstraction => Preserving information that is relevant in a given context, and forgetting 
+information that is irrelevant in that context. Abstraction means ignoring irrelevant features,
+properties, or functions and emphasizing the relevant ones … ... relevant to the context of 
+the project we develop. Abstraction helps managing complexity.
+Abstraction lets you focus on what the object does instead of how it does it. 
+There are two ways to achieve abstraction: Interfaces and Abstract class.
+
+Interfaces => An interface contains only the signatures of methods, properties, events or indexers.
+ -> An interface can inherit from one or more base interfaces.
+ -> When a base type list contains a base class and interfaces, the base class must come 
+first in the list.
+ -> A class that implements an interface can explicitly implement members of that interface.
+(An explicitly implemented member cannot be accessed through a class instance, but only 
+through an instance of the interface).
+
+Abstract class => Cannot be instantiated.
+ -> May contain abstract methods and accessors.
+ -> Abstract method declarations are only permitted in abstract classes.
+ -> It is not possible to modify sealed modifier.
+ -> Must provide implementation for all interface members(Implementing an interface might map 
+the interface methods onto abstract methods).
+
+Interface:
+ - A class may implement several interfaces.
+ - Cannot have access modifiers, everything is assumed as public.
+ - Cannot provide any code, just the signature.
+ - Fields and constants can't be defined.
+ - If we add a new method we have to track down all the implementations of the interface and
+define implementation for the new method.
+
+Abstract class:
+ - May inherit only one abstract class.
+ - Can provide implementation and/or just the signature that have to be overridden.
+ - Can contain access modifiers for the fields, functions, properties.
+ - Fields and constants can be defined.
+ - If we add a new method we have the option of providing default implementation and therefore 
+all the existing code might work properly.
+
+5. Polymorphism => This is something similar to a word having several different meanings depending 
+on the context. Polymorphism is often referred to as the third pillar of OOP, after encapsulation 
+and inheritance.
+Ability of an object to take on many forms (IS-A and IS-AN).
+ - Variables are saved in a reference type.
+ - You can use only reference methods.
+ - If you need an object method you need to cast it or override it.
+
+Keyword "is" => Check if an object is an instance of а specific class. 
+The is keyword supports the following patterns:
+ - Type pattern, which tests whether an expression can be converted to a specified type and, 
+if it can be, casts it to a variable of that type.
+ - Constant pattern, which tests whether an expression evaluates to a specified constant value.
+When performing pattern matching with the constant pattern, is tests whether an expression equals 
+a specified constant. Checking for null can be performed using the constant pattern.
+ - var pattern, a match that always succeeds and binds the value of an expression to a new local variable.
+A pattern match with the var pattern always succeeds. The value of expr is always assigned to a 
+local variable named varname. Varname is a static variable of the same type as expr. Note that if expr 
+is null, the is expression still is true and assigns null to varname.
+!!! Anytime you find yourself writing code of the form "if the object is of type T1, then do something, 
+but if it's of type T2, then do something else", slap yourself. - From Effective C++, by Scott Meyers!!!
+
+Keyword "as": You can use the as operator to perform certain types of conversions between compatible 
+reference types.
+
+Types of polymorphism:
+ - Runtime: Has two distinct aspects: At run time, objects of a derived class may be treated as objects 
+of a base class in places such as method parameters and collections or arrays. When this occurs, 
+the object's declared type is no longer identical to its run-time type. Base classes may define and 
+implement virtual methods. Derived classes can override them, which means they provide their own 
+definition and implementation. At run-time, the CLR looks up the run-time type of the object, and 
+invokes that override of the virtual method. Also known as Dynamic Polymorphism.
+ - Compile time: Also known as Static Polymorphis. Argument lists could differ in: number of parameters,
+data type of parameters, order of parameters.
+
+Abstract class can NOT be instantiated. An abstract class may or may not include abstract methods.
+If it has at least one abstract method, it must be declared abstract. To use an abstract class, 
+you need to inherit it.
+
+Keyword "sealed": Modifier prevents other classes from inheriting from it. Allows classes to derive 
+from your class and prevent them from overriding specific virtual methods or properties.
+
+Rules for Overloading a Method:
+ -> Signature should be different: number of arguments, type of arguments, order of arguments.
+ -> Return type is not a part of its signature.
+ -> Overloading can take place in the same class or in its sub-classes.
+ -> Constructors can be overloaded.
+ -> Overriding must take place in any sub-classes.
+ -> The overriding method and the base must have the same return type and the same signature.
+ -> Base method must have the virtual keyword.
+ -> Overriding method must have the abstract or override keyword.
+ -> Private and static methods cannot be overridden.
+ 
+6. SOLID 
+SOLID principle make software more:
+ - Understandable
+ - Flexible
+ - Maintainable
+
+S - Single Responsibility
+O - Open/ Closed
+L - Liskov substritution
+I - Interface Segregation
+D - Dependency Inversion
+
+Single Responsibility => Every class should be responsible for only a single part of the functionality 
+and that responsibility should be entirely encapsulated by the class.
+Strong Cohesion / Loose Coupling:
+Cohesion refers to the grouping of functionally related processes into a particular module.
+Aim for strong cohesion: each task maps a single code unit, a method should do one operation,
+a class should represent one entity.
+Coupling – the degree of dependence between modules(How closely connected two modules are.
+The strength of the relationship between modules.).
+Aim for loose coupling: supports readability and maintainability, often a sign of good system design.
+Cohesion and Coupling - Approaches: small number of instance variables inside a class,
+each method of a class should manipulate one or more of those variables, two modules should exchange 
+as little information as possible, creating an easily reusable subsystem.
+
+Open/Closed Principle => Software entities like classes, modules and functions should be open for 
+extension, but closed for modifications. Extensibility (adding a new behavior doesn’t require 
+changes over existing source code). Reusability (subsystems are suitable for reusing in other 
+projects – modularity.
+Design Smell - Violations: Need to retest after changes(old parts changed -> possible bugs,
+cascading changes through modules, logic depends on conditional statements (“IS-A” checking).
+OCP - Approaches: Parameters(control behavior specifics via a parameter or a delegate),
+rely on abstraction, not implementation(inheritance / Template Method Pattern),
+strategy Pattern(plug in model (insert a new implementation of the interface)).
+OCP - When to Apply: by experience – know the problem domain and if a change is very likely to recur, 
+new domain problem – implement the most simple way(changes once – modify, second time – refactor),
+TANSTAAFL – There Ain’t No Such Thing As A Free Lunch(OCP adds complexity to design,
+no design can be closed against all changes - know which ones to guard).
+
+Liskov Substitution => Derived types must be completely substitutable for their base types.
+Derived classes: only extend functionalities of the base class, must not remove base class behavior.
+Design Smell - Violations: type Checking, overridden methods say "I am not implemented",
+base class depends on its subtypes.
+LSP - Approaches: tell Don’t Ask(If you need to check what is the object  - move the behavior inside 
+the object), new Base Class – if two classes share a common behavior, but are not substitutable, 
+create a third, from which both derive; there shouldn’t be any virtual methods in constructors.
+
+Interface Segregation: Prefer small, cohesive (lean and focused) interfaces, 
+divide "fat" interfaces into "role" interfaces.
+Fat interface: Classes whose interfaces are not cohesive have "fat" interfaces.
+Design Smell - Violations: Not implemented methods,
+a Client references a class, but only uses a small portion of it.
+ISP - Approaches: what does the client see and use; the "fat" interfaces implement a number of small 
+interfaces with just what you need; all public members of a class divided in separate classes – again, 
+could be thought of as an interface; let the client define interfaces – "role" interfaces.
+Cohesion Interfaces: Small and Cohesive "Role" Interfaces.
+Problem that the Adapter pattern solves: reusing classes that do not have  an interface that  a client 
+requires, making classes with incompatible interfaces work together,
+providing an alternative interface for a class, convert the incompatible interface of a class Adaptee 
+into another interface – Target, that clients require.
+
+Dependency Inversion => Depend on abstractions.
+A dependency is any external component / system:
+Framework
+3rd party library
+Database
+File system
+Email
+Web service
+System resource (e.g. clock)
+Configuration
+The new keyword
+Static method
+Global function
+Random generator
+Console
+
+Types of Dependency Injection: Constructor injection, Property injection, Parameter injection.
+Constructor Injection – Pros and Cons. Pros: Class’ requirements are self-documenting; 
+we don’t have to worry about state validation.Cons: Too many parameters; sometimes, the functionality 
+doesn’t need all of the dependencies.
+Property injection - Pros(functionality can be changed at any time; that makes the code very flexible) and
+Cons(state can be invalid, less intuitive to use).
+Parameter injection - Pros(changes are only localized to the method) and Cons(too many parameters;
+breaks the method signature).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

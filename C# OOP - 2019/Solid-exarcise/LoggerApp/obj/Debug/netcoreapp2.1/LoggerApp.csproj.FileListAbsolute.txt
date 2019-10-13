@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\bin\Debug\netcoreapp2.1\LoggerApp.deps.json
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\bin\Debug\netcoreapp2.1\LoggerApp.runtimeconfig.json
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\bin\Debug\netcoreapp2.1\LoggerApp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\bin\Debug\netcoreapp2.1\LoggerApp.dll
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\bin\Debug\netcoreapp2.1\LoggerApp.pdb
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\obj\Debug\netcoreapp2.1\LoggerApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\obj\Debug\netcoreapp2.1\LoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\obj\Debug\netcoreapp2.1\LoggerApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\obj\Debug\netcoreapp2.1\LoggerApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\obj\Debug\netcoreapp2.1\LoggerApp.dll
+C:\Users\Admin\source\repos\Solid-exarcise\LoggerApp\obj\Debug\netcoreapp2.1\LoggerApp.pdb

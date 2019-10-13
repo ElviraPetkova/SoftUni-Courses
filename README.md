@@ -70,5 +70,7 @@ Lab, Exercise and Exams
 3. Encapsulation
 4. Interfaces and Abstraction
 5. Polymorphism
+6. SOLID
+7. Basic information - for OOP C#
 
 
