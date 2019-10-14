@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\bin\Debug\netcoreapp2.1\Travel Map.deps.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\bin\Debug\netcoreapp2.1\Travel Map.runtimeconfig.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\bin\Debug\netcoreapp2.1\Travel Map.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\bin\Debug\netcoreapp2.1\Travel Map.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\bin\Debug\netcoreapp2.1\Travel Map.pdb
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\obj\Debug\netcoreapp2.1\Travel Map.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\obj\Debug\netcoreapp2.1\Travel Map.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\obj\Debug\netcoreapp2.1\Travel Map.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\obj\Debug\netcoreapp2.1\Travel Map.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\obj\Debug\netcoreapp2.1\Travel Map.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Travel Map\obj\Debug\netcoreapp2.1\Travel Map.pdb

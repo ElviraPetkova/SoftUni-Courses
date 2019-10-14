@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\bin\Debug\netcoreapp2.1\01. Catapult Attack.deps.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\bin\Debug\netcoreapp2.1\01. Catapult Attack.runtimeconfig.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\bin\Debug\netcoreapp2.1\01. Catapult Attack.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\bin\Debug\netcoreapp2.1\01. Catapult Attack.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\bin\Debug\netcoreapp2.1\01. Catapult Attack.pdb
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\obj\Debug\netcoreapp2.1\01. Catapult Attack.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\obj\Debug\netcoreapp2.1\01. Catapult Attack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\obj\Debug\netcoreapp2.1\01. Catapult Attack.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\obj\Debug\netcoreapp2.1\01. Catapult Attack.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\obj\Debug\netcoreapp2.1\01. Catapult Attack.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\01. Catapult Attack\obj\Debug\netcoreapp2.1\01. Catapult Attack.pdb

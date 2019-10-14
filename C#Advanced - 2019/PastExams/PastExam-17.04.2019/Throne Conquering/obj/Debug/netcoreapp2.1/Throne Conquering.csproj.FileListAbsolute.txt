@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\obj\Debug\netcoreapp2.1\Throne Conquering.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\obj\Debug\netcoreapp2.1\Throne Conquering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\obj\Debug\netcoreapp2.1\Throne Conquering.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\obj\Debug\netcoreapp2.1\Throne Conquering.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\bin\Debug\netcoreapp2.1\Throne Conquering.deps.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\bin\Debug\netcoreapp2.1\Throne Conquering.runtimeconfig.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\bin\Debug\netcoreapp2.1\Throne Conquering.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\bin\Debug\netcoreapp2.1\Throne Conquering.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\bin\Debug\netcoreapp2.1\Throne Conquering.pdb
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\obj\Debug\netcoreapp2.1\Throne Conquering.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.04.2019\Throne Conquering\obj\Debug\netcoreapp2.1\Throne Conquering.pdb
