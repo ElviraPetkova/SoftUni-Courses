@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\bin\Debug\netcoreapp2.1\The Kitchen.deps.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\bin\Debug\netcoreapp2.1\The Kitchen.runtimeconfig.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\bin\Debug\netcoreapp2.1\The Kitchen.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\bin\Debug\netcoreapp2.1\The Kitchen.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\bin\Debug\netcoreapp2.1\The Kitchen.pdb
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\obj\Debug\netcoreapp2.1\The Kitchen.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\obj\Debug\netcoreapp2.1\The Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\obj\Debug\netcoreapp2.1\The Kitchen.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\obj\Debug\netcoreapp2.1\The Kitchen.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\obj\Debug\netcoreapp2.1\The Kitchen.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\The Kitchen\obj\Debug\netcoreapp2.1\The Kitchen.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\bin\Debug\netcoreapp2.1\Bombs.deps.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\bin\Debug\netcoreapp2.1\Bombs.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\bin\Debug\netcoreapp2.1\Bombs.pdb
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\obj\Debug\netcoreapp2.1\Bombs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\obj\Debug\netcoreapp2.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\obj\Debug\netcoreapp2.1\Bombs.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Bombs\obj\Debug\netcoreapp2.1\Bombs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\bin\Debug\netcoreapp2.1\Sport Cards.deps.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\bin\Debug\netcoreapp2.1\Sport Cards.runtimeconfig.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\bin\Debug\netcoreapp2.1\Sport Cards.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\bin\Debug\netcoreapp2.1\Sport Cards.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\bin\Debug\netcoreapp2.1\Sport Cards.pdb
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\obj\Debug\netcoreapp2.1\Sport Cards.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\obj\Debug\netcoreapp2.1\Sport Cards.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\obj\Debug\netcoreapp2.1\Sport Cards.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\obj\Debug\netcoreapp2.1\Sport Cards.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\obj\Debug\netcoreapp2.1\Sport Cards.dll
+C:\Users\Admin\Desktop\LocalRepo\SoftUni-Courses\C#Advanced - 2019\PastExams\PastExam-17.12.2018\Sport Cards\obj\Debug\netcoreapp2.1\Sport Cards.pdb
