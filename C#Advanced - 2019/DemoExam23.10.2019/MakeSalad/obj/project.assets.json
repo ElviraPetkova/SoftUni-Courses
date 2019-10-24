@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DemoExam23.10.2019\\MakeSalad\\MakeSalad.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C#Advanced - 2019\\DemoExam23.10.2019\\MakeSalad\\MakeSalad.csproj",
       "projectName": "MakeSalad",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DemoExam23.10.2019\\MakeSalad\\MakeSalad.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C#Advanced - 2019\\DemoExam23.10.2019\\MakeSalad\\MakeSalad.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DemoExam23.10.2019\\MakeSalad\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C#Advanced - 2019\\DemoExam23.10.2019\\MakeSalad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

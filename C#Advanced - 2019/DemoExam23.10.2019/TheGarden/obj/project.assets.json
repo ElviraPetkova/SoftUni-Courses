@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DemoExam23.10.2019\\TheGarden\\TheGarden.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C#Advanced - 2019\\DemoExam23.10.2019\\TheGarden\\TheGarden.csproj",
       "projectName": "TheGarden",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DemoExam23.10.2019\\TheGarden\\TheGarden.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C#Advanced - 2019\\DemoExam23.10.2019\\TheGarden\\TheGarden.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DemoExam23.10.2019\\TheGarden\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C#Advanced - 2019\\DemoExam23.10.2019\\TheGarden\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
