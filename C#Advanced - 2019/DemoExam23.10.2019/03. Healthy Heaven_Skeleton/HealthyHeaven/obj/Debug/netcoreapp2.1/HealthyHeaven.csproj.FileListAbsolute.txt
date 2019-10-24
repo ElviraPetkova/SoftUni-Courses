@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+C:\Users\Admin\Downloads\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

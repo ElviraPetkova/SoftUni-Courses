@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.deps.json
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.dll
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\bin\Debug\netcoreapp2.1\TheGarden.pdb
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.dll
+C:\Users\Admin\source\repos\DemoExam23.10.2019\TheGarden\obj\Debug\netcoreapp2.1\TheGarden.pdb

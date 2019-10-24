@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\bin\Debug\netcoreapp2.1\MakeSalad.deps.json
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\bin\Debug\netcoreapp2.1\MakeSalad.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\bin\Debug\netcoreapp2.1\MakeSalad.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\bin\Debug\netcoreapp2.1\MakeSalad.dll
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\bin\Debug\netcoreapp2.1\MakeSalad.pdb
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\obj\Debug\netcoreapp2.1\MakeSalad.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\obj\Debug\netcoreapp2.1\MakeSalad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\obj\Debug\netcoreapp2.1\MakeSalad.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\obj\Debug\netcoreapp2.1\MakeSalad.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\obj\Debug\netcoreapp2.1\MakeSalad.dll
+C:\Users\Admin\source\repos\DemoExam23.10.2019\MakeSalad\obj\Debug\netcoreapp2.1\MakeSalad.pdb
