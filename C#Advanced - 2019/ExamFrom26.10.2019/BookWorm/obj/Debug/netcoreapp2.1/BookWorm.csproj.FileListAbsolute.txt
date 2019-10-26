@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\bin\Debug\netcoreapp2.1\BookWorm.deps.json
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\bin\Debug\netcoreapp2.1\BookWorm.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\bin\Debug\netcoreapp2.1\BookWorm.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\bin\Debug\netcoreapp2.1\BookWorm.dll
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\bin\Debug\netcoreapp2.1\BookWorm.pdb
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\obj\Debug\netcoreapp2.1\BookWorm.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\obj\Debug\netcoreapp2.1\BookWorm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\obj\Debug\netcoreapp2.1\BookWorm.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\obj\Debug\netcoreapp2.1\BookWorm.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\obj\Debug\netcoreapp2.1\BookWorm.dll
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\BookWorm\obj\Debug\netcoreapp2.1\BookWorm.pdb

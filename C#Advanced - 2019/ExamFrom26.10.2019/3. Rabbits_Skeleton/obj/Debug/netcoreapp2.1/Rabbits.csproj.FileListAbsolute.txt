@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Admin\Downloads\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.pdb

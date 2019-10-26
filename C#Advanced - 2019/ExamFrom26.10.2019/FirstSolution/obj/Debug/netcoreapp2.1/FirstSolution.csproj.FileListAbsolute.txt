@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\bin\Debug\netcoreapp2.1\FirstSolution.deps.json
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\bin\Debug\netcoreapp2.1\FirstSolution.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\bin\Debug\netcoreapp2.1\FirstSolution.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\bin\Debug\netcoreapp2.1\FirstSolution.dll
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\bin\Debug\netcoreapp2.1\FirstSolution.pdb
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\obj\Debug\netcoreapp2.1\FirstSolution.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\obj\Debug\netcoreapp2.1\FirstSolution.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\obj\Debug\netcoreapp2.1\FirstSolution.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\obj\Debug\netcoreapp2.1\FirstSolution.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\obj\Debug\netcoreapp2.1\FirstSolution.dll
+C:\Users\Admin\source\repos\ExamFrom26.10.2019\FirstSolution\obj\Debug\netcoreapp2.1\FirstSolution.pdb
