@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\P01_RawData.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\P01_RawData.csproj",
       "projectName": "P01_RawData",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\P01_RawData.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\P01_RawData.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

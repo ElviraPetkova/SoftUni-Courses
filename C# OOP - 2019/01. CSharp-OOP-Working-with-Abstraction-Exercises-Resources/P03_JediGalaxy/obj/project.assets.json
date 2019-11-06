@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P03_JediGalaxy\\P03_JediGalaxy.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P03_JediGalaxy\\P03_JediGalaxy.csproj",
       "projectName": "P03_JediGalaxy",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P03_JediGalaxy\\P03_JediGalaxy.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P03_JediGalaxy\\P03_JediGalaxy.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P03_JediGalaxy\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P03_JediGalaxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
