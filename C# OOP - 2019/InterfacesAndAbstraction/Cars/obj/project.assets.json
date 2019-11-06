@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Cars\\Cars.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Cars\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Cars\\Cars.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Cars\\Cars.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Cars\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Cars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

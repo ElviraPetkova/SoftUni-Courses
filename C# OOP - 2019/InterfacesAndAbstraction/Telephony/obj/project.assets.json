@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Telephony\\Telephony.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Telephony\\Telephony.csproj",
       "projectName": "Telephony",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Telephony\\Telephony.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Telephony\\Telephony.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Telephony\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Telephony\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

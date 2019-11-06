@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\PersonInfo\\PersonInfo.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\PersonInfo\\PersonInfo.csproj",
       "projectName": "PersonInfo",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\PersonInfo\\PersonInfo.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\PersonInfo\\PersonInfo.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\PersonInfo\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\PersonInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

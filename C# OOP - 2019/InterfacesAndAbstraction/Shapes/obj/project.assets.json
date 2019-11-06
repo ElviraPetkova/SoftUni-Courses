@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Shapes\\Shapes.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Shapes\\Shapes.csproj",
       "projectName": "Shapes",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Shapes\\Shapes.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\InterfacesAndAbstraction\\Shapes\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\LocalRepo\\SoftUni-Courses\\C# OOP - 2019\\InterfacesAndAbstraction\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
